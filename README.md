@@ -1,2 +1,2 @@
 # lifelog
-PersonalNAS
+Personal IntraNAS System for Raspberry Pi
