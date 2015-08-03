@@ -119,8 +119,7 @@
 			<B>Ver:0.0.1</b>
 			</div>
               </p>
-              <p><a class="btn" href="http://pjfs.biz/wp/?p=86">View details &raquo;</a>
-              <a href="./UltraVision/?" class="btn btn-primary btn-large">UltraVision &raquo;</a></p>
+              <p><a class="btn" href="http://pjfs.biz/wp/?p=86">View details &raquo;</a></p>
             </div><!--/span-->
           </div><!--/row-->
         </div><!--/span-->
