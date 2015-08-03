@@ -87,6 +87,7 @@
 				// 初期表示の行数設定
 			      iDisplayLength: 15,
 			      "oLanguage" : {
+
 			         "sProcessing":   "処理中...",
 			         "sLengthMenu":   "_MENU_ 件表示",
 			         "sZeroRecords":  "データはありません。",
@@ -162,7 +163,7 @@
 					<tr>
 						<th width="20">No.</th>
                         <th width="350">タイトル</th>
-                        <th width="250">日付</th>
+                        <th width="150">日付</th>
 						<th width="100">サイズ</th>
 					</tr>
 				</thead>
@@ -201,7 +202,7 @@
 	    echo '<td class="center">'.$i.'</td>';
 	    echo '<td>';
 		echo "<a href=\"javascript:void(0);\" onclick=\"view('".mb_convert_encoding($l_file, 'UTF-8', 'auto')."');\">";
-		echo mb_convert_encoding($l_file, 'UTF-8', 'auto').'</a></td>';
+		echo str_replace('/var/www/lifelog/DATA/org/pdf/','',mb_convert_encoding($l_file, 'UTF-8', 'auto')).'</a></td>';
 	    echo "<td>".$f_date."</td>";
 	    echo "<td>".number_format($size)."B</td>";
 	    echo "</tr>";
