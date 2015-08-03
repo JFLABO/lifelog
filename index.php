@@ -113,7 +113,8 @@
               <li><a href="http://dotinstall.com/home">ドットインストール</a></li>
               <li><a href="http://cakephp.jp/">CakePHP</a></li>
               <li><a href="http://laravel.jp/">laravel</a></li>
-             
+              <li><a href="http://www.backlog.jp/git-guide/">git入門</a></li>
+
               <li class="nav-header">友人関連</li>
               <li><a href="https://plus.google.com/u/0/">Google+</a></li>
               <li><a href="https://twitter.com/JFLABO">twitter</a></li>
