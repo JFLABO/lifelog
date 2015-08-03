@@ -74,6 +74,7 @@
               <li class="active">
               <li><a href='./UltraVision/?'>UltraVision</a></li>
               <li><a href='./Minerva/?'>Minerva</a></li>
+              <li><a href='./HyperNote/?'>HyperNote</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
