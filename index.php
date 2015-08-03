@@ -88,9 +88,12 @@
 				print date("Y/m/d (D) G:i:s");
 				?></h2>
             <p>UltraVision::画像ファイルを効率よく管理するシステムです。</p>
-            <p><a href="http://pjfs.biz/wp/?cat=2" class="btn btn-primary btn-large">開発Blog &raquo;</a>
+
             <a href="./UltraVision/?" class="btn btn-primary btn-large">UltraVision &raquo;</a>
-			<a href="./Minerva/?" class="btn btn-primary btn-large">Minerva(pdf) &raquo;</a></p>
+			<a href="./Minerva/?" class="btn btn-primary btn-large">Minerva(pdf) &raquo;</a>
+			<a href="./HyperNote/?" class="btn btn-primary btn-large">HyperNote(txt) &raquo;</a><BR><BR>
+
+			<a href="http://pjfs.biz/wp/?cat=2" class="btn btn-primary btn-large">開発Blog &raquo;</a></p>
           </div>
           <div class="row-fluid">
             <div class="span4">
