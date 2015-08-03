@@ -111,6 +111,7 @@
               <li class="nav-header">お仕事関連</li>
               <li><a href="http://pjfs.biz/tbrp/ChiMeRa.php?param=JFLABO::ChiMeRa::diary">JFLABO</a></li>
               <li><a href="http://dotinstall.com/home">ドットインストール</a></li>
+              <li><a href="http://cakephp.jp/">CakePHP</a></li>
 
               <li class="nav-header">友人関連</li>
               <li><a href="https://plus.google.com/u/0/">Google+</a></li>
