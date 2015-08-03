@@ -23,9 +23,9 @@ if($sw=="r"){
 
 	$fn=urldecode($_GET['fn']);
 	$s = file($fn);
-	echo "<a href='./?'>UltraVision</a><HR>";
+	echo "<a href='./?'>HyperNote</a><HR>";
 	echo mb_convert_encoding($fn,$output_char_code, 'auto');
-	echo "<HR>";
+	echo "<BR>";
 	// 配列をループしてHTMLをHTMLソースとして表示し、行番号もつけます。
 	foreach ($s as $line_num => $line) {
 		 $line_num=sprintf("%03d",$line_num+1);
@@ -38,7 +38,7 @@ if($sw=="r"){
 	//echo "hello ChiMeRa Mode:".$sw;
 	//echo "<BR>";
 	//echo "<div style='float: right;'>".$today." <a href='./HN_table.php?'>HyperNote</a>
-	echo "<a href='./?'>UltraVision</a><HR>";
+	echo "<a href='./?'>HyperNote</a><HR>";
 	//<a href='../accounting/?sw=r'>accounting</a> <a href='../?'>index</a></div> <BR><HR>";
 	if($fn==""){
 		$s2="目次　ファイルリスト";
@@ -48,7 +48,7 @@ if($sw=="r"){
 		echo mb_convert_encoding($fn,$output_char_code, 'auto');
 	}
 
-	echo "<HR>";
+	echo "<BR>";
 
 	foreach (glob($txt_dir."*.txt") as $filename) {
 		//$f=urlencode(mb_convert_encoding($filename, $output_char_code,$file_char_code));
