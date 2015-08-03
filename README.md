@@ -1,9 +1,9 @@
 # lifelog
 Personal IntraNAS System for Raspberry Pi
 
-ライフログシステムのウルトラビジョンというパッケージ
+###ライフログシステムのウルトラビジョンというパッケージ###
 
-<a href="http://pjfs.biz/wp/?p=86">lifelog System開発開始 UltraVision追加</a> 
+開発ブログ-><a href="http://pjfs.biz/wp/?p=86">lifelog System開発開始 UltraVision追加</a> 
 
 増え続けるデジタル写真データを効率よく管理するためのシステムです。
 これをベースに独自に拡張していくこともできます。
