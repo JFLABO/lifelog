@@ -131,7 +131,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2013</p>
+        <p>&copy; JFLABO 2013</p>
       </footer>
 
     </div><!--/.fluid-container-->
