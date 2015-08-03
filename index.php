@@ -73,6 +73,7 @@
             <ul class="nav">
               <li class="active">
               <li><a href='./UltraVision/?'>UltraVision</a></li>
+              <li><a href='./Minerva/?'>Minerva</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -88,7 +89,8 @@
 				?></h2>
             <p>UltraVision::画像ファイルを効率よく管理するシステムです。</p>
             <p><a href="http://pjfs.biz/wp/?cat=2" class="btn btn-primary btn-large">開発Blog &raquo;</a>
-            <a href="./UltraVision/?" class="btn btn-primary btn-large">UltraVision &raquo;</a></p>
+            <a href="./UltraVision/?" class="btn btn-primary btn-large">UltraVision &raquo;</a>
+			<a href="./Minerva/?" class="btn btn-primary btn-large">Minerva(pdf) &raquo;</a></p>
           </div>
           <div class="row-fluid">
             <div class="span4">
@@ -107,7 +109,8 @@
               <li class="nav-header">Web関連</li>
               <li class="active"><a href="http://pjfs.biz/tbrp/">旅れぽ</a></li>
               <li><a href="./UltraVision/?">UltraVision</a></li>
-              
+              <li><a href="./Minerva/?">Minerva</a></li>
+			  
               <li class="nav-header">お仕事関連</li>
               <li><a href="http://pjfs.biz/tbrp/ChiMeRa.php?param=JFLABO::ChiMeRa::diary">JFLABO</a></li>
               <li><a href="http://dotinstall.com/home">ドットインストール</a></li>
