@@ -72,6 +72,7 @@
 				  title: 'Image Database for LifeLog [Cloud Album]',
 				  closeOnEscape: false,
 				  modal: true,
+				  position: [ 350, 100 ],
 				  width:650,
 				  height:540
 				});
