@@ -18,3 +18,7 @@ Personal IntraNAS System for Raspberry Pi
 CakePHPを活用したWebアプリケーションの土台として機能するように頑張ります。
 
 主要技術：jQuery jQuery-ui Ajax bootstrap PHP CakePHP Linux Apache2 MySQL git lalavel
+
+IoTの思想を組み入れた小型で手にしやすいコンピュータ上で実行できるようにしています。
+ハイパワーなサーバ上でマルチユーザのホスティングを行うプログラムにも拡張可能です。
+このバージョンでは家庭やオフィスで手軽で気楽に使えるパッケージを目指しています。
