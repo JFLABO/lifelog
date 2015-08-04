@@ -26,13 +26,15 @@ if($sw=="r"){
 	echo "<a href='./?'>HyperNote</a><HR>";
 	echo mb_convert_encoding($fn,$output_char_code, 'auto');
 	echo "<BR>";
+
 	// 配列をループしてHTMLをHTMLソースとして表示し、行番号もつけます。
 	foreach ($s as $line_num => $line) {
 		 $line_num=sprintf("%03d",$line_num+1);
 		//$s=mb_convert_encoding($s,$output_char_code, 'auto');
 		echo "Line #<b>{$line_num}</b> : "
-		.mb_convert_encoding($line,$output_char_code, $file_char_code). "<br />\n";
+		.mb_convert_encoding($line,$output_char_code, 'SJIS'). "<br />\n";
 	}
+
 }else{
 
 	//echo "hello ChiMeRa Mode:".$sw;
