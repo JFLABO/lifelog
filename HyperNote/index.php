@@ -195,8 +195,8 @@
               <li class="nav-header">Web関連</li>
               <li class="active"><a href="http://pjfs.biz/tbrp/">旅れぽ</a></li>
               <li><a href="../UltraVision/?">UltraVision</a></li>
-              <li><a href="./?">Minerva</a></li>
-              <li><a href='../HyperNote/?'>HyperNote</a></li>
+              <li><a href="./Minerva/?">Minerva</a></li>
+              <li><a href='../?'>HyperNote</a></li>
 			  
               <li class="nav-header">お仕事関連</li>
               <li><a href="http://pjfs.biz/tbrp/ChiMeRa.php?param=JFLABO::ChiMeRa::diary">JFLABO</a></li>
