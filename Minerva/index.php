@@ -245,7 +245,8 @@
               <li class="active"><a href="http://pjfs.biz/tbrp/">旅れぽ</a></li>
               <li><a href="../UltraVision/?">UltraVision</a></li>
               <li><a href="./?">Minerva</a></li>
-			          
+              <li><a href='../HyperNote/?'>HyperNote</a></li>
+			  
               <li class="nav-header">お仕事関連</li>
               <li><a href="http://pjfs.biz/tbrp/ChiMeRa.php?param=JFLABO::ChiMeRa::diary">JFLABO</a></li>
               <li><a href="http://dotinstall.com/home">ドットインストール</a></li>
