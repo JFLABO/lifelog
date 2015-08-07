@@ -12,7 +12,7 @@ Personal IntraNAS System for Raspberry Pi
 sudo apt-get install apache2 php5 php5-gd -y
 
 2)cd /var/www
-　
+
 git clone https://github.com/JFLABO/lifelog
 
 　/var/www/lifelog/DATA/org/picture
