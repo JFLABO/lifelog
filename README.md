@@ -7,11 +7,11 @@ Personal IntraNAS System for Raspberry Pi
 
 インストール方法-><a href="http://pjfs.biz/wp/?p=98">http://pjfs.biz/wp/?p=98</a>
 
-　1)実行環境を整備して
+1)実行環境を整備して
 　
 sudo apt-get install apache2 php5 php5-gd -y
 　　
-　2)cd /var/www
+2)cd /var/www
 　
 git clone https://github.com/JFLABO/lifelog
 
