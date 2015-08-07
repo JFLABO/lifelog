@@ -6,7 +6,14 @@ Personal IntraNAS System for Raspberry Pi
 開発ブログ-><a href="http://pjfs.biz/wp/?p=86">lifelog System開発開始 UltraVision追加</a> 
 
 インストール方法-><a href="http://pjfs.biz/wp/?p=98">http://pjfs.biz/wp/?p=98</a>
+　1)実行環境を整備して
+　　sudo apt-get install apache2 php5 php5-gd -y
+　2)cd /var/www
+　　git clone https://github.com/JFLABO/lifelog
 
+　/var/www/lifelog/DATA/org/picture
+　に入れた画像データがWebインターフェイスで見れるようになります。
+　
 増え続けるデジタル写真データを効率よく管理するためのシステムです。
 これをベースに独自に拡張していくこともできます。
 
