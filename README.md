@@ -9,11 +9,11 @@ Personal IntraNAS System for Raspberry Pi
 
 　1)実行環境を整備して
 　
-　　sudo apt-get install apache2 php5 php5-gd -y
+sudo apt-get install apache2 php5 php5-gd -y
 　　
 　2)cd /var/www
 　
-　　git clone https://github.com/JFLABO/lifelog
+git clone https://github.com/JFLABO/lifelog
 
 　/var/www/lifelog/DATA/org/picture
 　に入れた画像データがWebインターフェイスで見れるようになります。
