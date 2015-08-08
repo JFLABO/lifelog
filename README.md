@@ -2,6 +2,7 @@
 Personal IntraNAS System for Raspberry Pi
 
 ###ライフログシステムのウルトラビジョンというパッケージ###
+暮らしの思い出をWebシステム化しようという試み
 
 開発ブログ-><a href="http://pjfs.biz/wp/?p=86">lifelog System開発開始 UltraVision追加</a> 
 
