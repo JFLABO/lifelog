@@ -3,7 +3,8 @@ Personal IntraNAS System for Raspberry Pi
 
 ###ライフログシステムのウルトラビジョンというパッケージ###
 暮らしの思い出をWebシステム化しようという試み　画像ファイルの情報共有にもどうぞ
-イベント写真の共有や記念写真の限定共有用途で実績豊富です。
+
+イベント写真の共有や記念写真の限定共有用途で活用事例が多いようです。
 
 開発ブログ-><a href="http://pjfs.biz/wp/?p=86">lifelog System開発開始 UltraVision追加</a> 
 
