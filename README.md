@@ -100,7 +100,10 @@ CakePHP　lalavel　のアプリケーションも企画しています。
 データディレクトリがなければ環境に合わせて作成してください
 以下のディレクトリにはデータファイルが入ります。
 /var/www/lifelog/DATA/
+
 /var/www/lifelog/DATA/org/picture/
+
 /var/www/lifelog/DATA/org/txt/
+
 /var/www/lifelog/DATA/org/pdf/
 
