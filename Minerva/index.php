@@ -187,7 +187,8 @@
 	    return $list;
 	}
 	
-	$dir="/var/www/lifelog/DATA/org/pdf";
+	//$dir="/var/www/lifelog/DATA/org/pdf"; //old
+	$dir="/var/www/html/lifelog/DATA/org/pdf";
 	$L=getFileList($dir);
 	//var_dump($L);
 	?>
