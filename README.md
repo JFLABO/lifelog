@@ -107,3 +107,4 @@ CakePHP　lalavel　のアプリケーションも企画しています。
 
 /var/www/lifelog/DATA/org/pdf/
 
+2016年アンドロイドプラットホームがこれ相当の機能を搭載しました。
